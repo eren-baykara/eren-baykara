@@ -21,8 +21,11 @@
 
 ###
 
-<h1 align="center">('hello world 👋')</h1>
-
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=40&pause=1000&color=F73905&center=true&vCenter=true&width=500&lines=('hello+world+%F0%9F%91%8B')" alt="Typing SVG" />
+  </a>
+</div>
 ###
 
 <h3 align="left">👩‍💻  About Me</h3>
@@ -80,7 +83,6 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/eren-baykara/eren-baykara/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/eren-baykara/eren-baykara/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph.svg">
 </picture>
 
 ###
